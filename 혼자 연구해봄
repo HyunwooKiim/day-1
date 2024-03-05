@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(void) {
+  
+  int a;
+  int i = 1;
+  scanf("%d", &a);
+  while(i==1)/*무한 반복(이렇게 하는게 맞을까?)*/ {
+  printf("김현우");
+  };
+  
+  return 0;
+}
